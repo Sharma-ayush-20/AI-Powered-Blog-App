@@ -3,7 +3,7 @@
 A modern, full-stack blog platform with AI content generation capabilities built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
 
 ![MERN Stack](https://img.shields.io/badge/Stack-MERN-61DAFB?style=for-the-badge)
-![AI Powered](https://img.shields.io/badge/AI-OpenAI-412991?style=for-the-badge)
+![Gemini Powered](https://img.shields.io/badge/AI-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ## 📋 Description
